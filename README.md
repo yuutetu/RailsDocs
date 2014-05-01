@@ -7,7 +7,8 @@
 ## 環境構築
 
 ## Railsフレームワーク
-* Model
+* [Model(ActiveRecord)](model/index.md)
+* Service
 * Controller
 * Routing
 * View
